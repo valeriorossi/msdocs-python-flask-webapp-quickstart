@@ -15,3 +15,5 @@ git remote add azure https://test-python-123.scm.azurewebsites.net:443/test-pyth
  http:// test-python-123.azurewebsites.net
 call
  http://127.0.0.1:8000/items/?ticker=AAPL&startDate=2023-01-02&endDate=2023-09-14&period=1d&events=div
+ 
+ test deploy
