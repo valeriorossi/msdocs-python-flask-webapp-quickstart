@@ -1,0 +1,15 @@
+local git: 
+https://test-python-123.scm.azurewebsites.net:443/test-python-123.git
+
+local git username:
+$test-python-123
+
+local git password:
+glHusyNkg2i8Fhdsasn9lj8ATgNbqLaHoFllJ3iF1zSwE71pZoWd8x8FJezH
+
+git remote add azure https://test-python-123.scm.azurewebsites.net:443/test-python-123.git
+
+ git push azure main:master
+
+
+ http:// test-python-123.azurewebsites.net
